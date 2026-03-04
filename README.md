@@ -1,6 +1,3 @@
-# Student_Registry_System
-Featuring Object-Oriented Design, persistent JSON storage, and comprehensive error handling for secure data management. 
-markdown
 # Student Regstry System CLI
 
 A robust, terminal-based student registry system built with Python. This project demonstrates safe data persistence using JSON and follows professional Object-Oriented Programming (OOP) principles.
