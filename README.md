@@ -32,7 +32,3 @@ Error Handling Implemented
 JSONDecodeError: Handles corrupted or improperly formatted JSON files.
 FileNotFoundError: Ensures the system doesn't crash if the database is missing.
 ValueError: Validates user input (e.g., ensuring Age is a number).
-
-### Pro-Tip for Github:
-Create a file named **`.gitignore`** in the same folder and add this single line inside it:
-```text
